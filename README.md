@@ -45,8 +45,3 @@
 
 ---
 
-## 🚀 Установка и запуск
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/ТВОЙ_ЛОГИН/TransportCompanyApp.git
